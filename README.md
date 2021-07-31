@@ -1,2 +1,2 @@
 # shivaninarang
- This is my first website. 
+Building a portfolio with Tanay Pratap.
