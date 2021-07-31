@@ -190,7 +190,10 @@ hr{
     color: black;
     background:#E5E7EB;
   }
-    
+/**blogs-text-align**/
+.text-justify{
+    text-align: justify;
+}
 
 
 
